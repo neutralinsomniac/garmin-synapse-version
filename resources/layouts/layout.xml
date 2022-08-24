@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <label id="LocalVersionLabel" x="5" y="70" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_BLUE" text="L: ..." />
+    <label id="RemoteVersionLabel" x="5" y="90" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_BLUE" text="R: ..." />
+</layout>
